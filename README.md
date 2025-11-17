@@ -1,4 +1,4 @@
-# CC Review Demo
+# Claude Code Review Demo
 
 Simple authentication module for demonstrating Claude Code PR collaboration summaries.
 
