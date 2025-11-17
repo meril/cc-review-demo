@@ -1,5 +1,8 @@
 {
   "name": "cc-review-demo",
   "version": "1.0.0",
-  "description": "Demo authentication app for PR summary feature showcase"
+  "description": "Demo authentication app for PR summary feature showcase",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
 }
